@@ -1,0 +1,15 @@
+{
+  "name": "howtonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "suduko.js",
+  "dependencies": {
+    "split": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "testall.cmd"
+  },
+  "author": "",
+  "license": "ISC"
+}
